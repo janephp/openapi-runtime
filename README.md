@@ -1,4 +1,4 @@
-# Jane Open Api
+# Jane Open Api Runtime
 
 [![Latest Version](https://img.shields.io/github/release/janephp/openapi-runtime.svg?style=flat-square)](https://github.com/janephp/openapi-runtime/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
